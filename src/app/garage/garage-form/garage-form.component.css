@@ -1,0 +1,11 @@
+#additem {
+    background: #fff;padding: 40px;
+}
+
+#additem input , #additem select  {
+    border-radius: 0px;
+}
+
+#additem button {
+    border-radius: 0px;
+}

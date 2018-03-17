@@ -1,1 +1,11 @@
 /* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css?family=Raleway:400,600,700');
+body {
+    font-family: 'Raleway', sans-serif!important;
+    color: #373a3c;
+    background:#F5F7F8!important;
+}
+.table  th {
+    border-top: none!important;
+    border-bottom: none!important
+}
